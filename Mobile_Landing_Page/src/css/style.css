@@ -1,0 +1,117 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+    }
+    
+    
+    nav{
+        padding: 10px;
+        width: 100%;
+        background: #1a84b8;
+        
+    
+    }
+    
+    .menu_items ul{
+        display: flex;
+        gap: 40px;
+       justify-content: center;
+       margin-left: 560px;
+       margin-top: 20px;
+      
+    }
+    
+    
+    
+    
+    .menu_items ul li{
+        font-size: 15px;
+      
+    }
+    
+    .menu h1{
+        font-size: 30px;
+        color: white;
+        position: relative;
+        top: 40px;
+        left: 30px;
+        font-family: 'Brygada 1918', serif;
+        
+    }
+    
+    
+    
+    
+    
+    
+    .menu_items ul li>a{
+        font-family: 'Montserrat', sans-serif;
+        color: white;
+        text-decoration: none;
+    }
+    
+    
+    
+    #banner{
+        width: 100%;
+        height: 700px;
+      background-color: #1a84b8; 
+    }
+    
+    .img img{
+        width: 400px;
+        height: 400px;
+        position: relative;
+        top: 90px;
+        left: 30px;
+        border-radius: 20px;
+    }
+    
+    .text1 p{
+        position: relative;
+        left: 600px;
+        top: -240px;
+        font-size: 50px;
+        font-family: 'Montserrat', sans-serif;
+        color: white;
+    }
+    
+    .text2 p{
+        position: relative;
+        left: 600px;
+        top: -210px;
+        font-size: 25px;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+    }
+    
+    .google_btn button{
+        font-size: 22px;
+        width: 160px;
+        height: 70px;
+        position: relative;
+        left: 600px;
+        top: -190px;
+        width: 20%;
+        text-align: center;
+        border-radius: 15px;
+        background-color: #1a84b8;
+        color: white;
+        
+    }
+    
+    .appstore_btn button{
+        font-size: 22px;
+        width: 260px;
+        height: 70px;
+        position: relative;
+        left: 1000px;
+        top: -255px;
+        border-radius: 15px;
+       background-color: #1a84b8;
+        color: white;
+       text-align: center;
+       
+    }
